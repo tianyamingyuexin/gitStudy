@@ -1,10 +1,1 @@
-调理从南方丰一杯酒，降火夜雨时氖灯。
-just a test aaaaaa
-
-reating a new branch is quick 
-
-
-ssh是   an simpleg
-it is a distributed version control system.
-creating a new branch is quick 
-Git is free software distributed under the GPL.
+桃李春风一杯酒，江湖夜雨十年等。
