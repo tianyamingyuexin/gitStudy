@@ -1,4 +1,4 @@
-Git is a distributed version control system.
+ssh是   an simpleg
+it is a distributed version control system.
 creating a new branch is quick 
-
 Git is free software distributed under the GPL.
